@@ -88,7 +88,7 @@ We'll start by defining a number of classes or class-like entities, using refere
 All of these classes have the same basic characteristics:
 
 * A field named `x` that contains a number.
-* An way of initializing the value of `x`.
+* A way of initializing the value of `x`.
 * A method named `getx` for retrieving the value of `x`.
 * A method named `inc` for incrementing the value of `x`.
 
